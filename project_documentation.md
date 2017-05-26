@@ -59,7 +59,7 @@ You can use python to turn on specific GPIO pins, sleep and shut the pin off. Th
  
 Next, we using the raspberry pi camera and OpenCV to allow the car to ‘see’.  Using an xml file with hundreds of postive and negative sample of stop signs  The way image recognition works is we first need to "train" a classifier, like we would with any machine learning algorithm. To do this, we gathered a  massive set of images of what we're looking to detect.   In our case it’s stop signs.  To do this, we wrote code that analyzes each picture and either says: “ yes this picture contains a stop sign” or “no this picture does not contain a stop sign”.  At this point, training is done.  When we placed an image of a stop sign in front of our car and executed our script, our result was as follows:
  
-Result1.jpg
+![result1](https://cloud.githubusercontent.com/assets/18706242/26502148/a1110d02-4209-11e7-93ac-17512ce232b6.jpg)
  
 At this point, our car could detect objects using a distance sensor and see stop signs using a pi camera.  If either were detected, our car would stop and stay put until either were removed.  
  
