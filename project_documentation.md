@@ -80,7 +80,7 @@ Installing OpenCV was an extremely time consuming process and there was no way o
  
 We needed more time. Our time constraint did not allow us to perfect any aspect of our car. We had a working car that could only drive straight and stop on its own. We never had time to add in turns or to allow it to use the Pi-Cam to stop the car. We did get the camera to recognize stop signs, but this function was never added into the driving program. 
 
-# Final Car:  Check out our Youtube video for more details and clips of our working car:
+# Final Car:  Check out our Youtube video for more details and clips of our working car: https://www.youtube.com/watch?v=v1tzMzben3I&feature=youtu.be
 
 
 ![img_0512 1](https://cloud.githubusercontent.com/assets/18706242/26502365/94d6262a-420a-11e7-8a1c-c0d63a0b181c.jpg)
