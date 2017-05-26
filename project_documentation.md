@@ -43,7 +43,8 @@ Connect your power supply to the L298D chip along with the two motors. Make sure
  
 Tutorial: http://geextor.com/2016/11/20/driving-a-dc-motor-with-raspberry-pi/
  
-(insert photo) - 3634 / 2
+![img_3634](https://cloud.githubusercontent.com/assets/18706242/26502098/7bbee510-4209-11e7-992c-b0be6dd04dd8.jpg)
+
  
 #HC-SR04 Sensor
 Using a breadboard, connect the sensor to the Pi. Make sure the wires are connected accurately based on the the GPIO numbers in the Pi and the positions on the breadboard, as errors in this wiring can cause the sensor to overheat and break.   When setting up our GPIO pins it is important to be consistent.  One can either use GPIO.Board or GPIO.BCM.  We chose to use gpio.board and use the physical pin numbers rather than the GPIO numbers.  
