@@ -79,3 +79,15 @@ Once we had the motors attached to the Pi we spent almost two days putting the c
 Installing OpenCV was an extremely time consuming process and there was no way of making sure each step of the installation process was successful. We were able to install the program in about 2 and a half hours, but once the program was installed we were not able to import it from python. After a lot of troubleshooting, we determined that this was because we did not bind OpenCV to python (via the sudo apt-get install python-opencv command). Because it took us so long to be able to import OpenCV from python, we were limited in the amount of time we had to work on the stop sign detection aspect of the car. 
  
 We needed more time. Our time constraint did not allow us to perfect any aspect of our car. We had a working car that could only drive straight and stop on its own. We never had time to add in turns or to allow it to use the Pi-Cam to stop the car. We did get the camera to recognize stop signs, but this function was never added into the driving program. 
+
+# Final Car:  Check out our Youtube video for more details and clips of our working car:
+
+
+![img_0512 1](https://cloud.githubusercontent.com/assets/18706242/26502365/94d6262a-420a-11e7-8a1c-c0d63a0b181c.jpg)
+
+
+
+![img_0513 1](https://cloud.githubusercontent.com/assets/18706242/26502360/8eb28db0-420a-11e7-925c-a4a50755db65.jpg)
+
+
+
