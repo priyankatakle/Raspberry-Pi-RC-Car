@@ -33,7 +33,7 @@ The best place to start is to take your car apart. You can buy an expensive car 
 Tutorial: http://www.instructables.com/id/Raspberry-Pi-2-WiFi-RC-Car/
  
  
-(Insert photo) - 3615 / 1
+![img_3615](https://cloud.githubusercontent.com/assets/18706242/26501842/b9f05d38-4208-11e7-93b8-b7718303dac1.jpg)
  
 You want to make sure you have two DC motors. One to go back and forward, and one to go left and right. Each motor should have two wires going into it to control each direction.
  
